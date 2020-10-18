@@ -3,6 +3,8 @@
 A small application that allows to import users from a CSV file into the database using job queue.
 An email is sent once a job is finished.
 Current configuration uses mailtrap.io email service to test email sending.
+**test.csv** file containing test CSV data is in the root of the repository.
+**database/backups/backup.sql** file contains DB backup with test data.  
 
 ## Frameworks and libraries used
 
