@@ -24,6 +24,7 @@ Current configuration uses mailtrap.io email service to test email sending.
 ## To run
 
 	php artisan serve
+	php artisan queue:listen
 
 ## Screenshots
 
